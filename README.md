@@ -1,3 +1,3 @@
 # Sulaiman-Dem.github.io
 
-## My one Resume
+## Info about me
