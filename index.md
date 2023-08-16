@@ -1,24 +1,42 @@
 # Sulaiman-Dem.github.io
 
+## [Visit website](https://group9-wp-su23.tiqc01.com "Wordpress Team AI")
+
+![LCO Mascoot](https://i.ytimg.com/vi/wXd77Y3bRFY/maxresdefault.jpg "Future of AI")
+
+## The Future of AI:
+
+---
+
+The future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the tech field because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that enhances your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers even the ones with many years of experience lack. If I know how to use the tools I can teach it to others. That is how you create a legacy.
+
 ## EDUCATION
 
 York College, The City University of New York (CUNY) | Jamaica, NY
 Bachelor of Science in Computer Science Expected Dec 2023
 
+---
+
 ## RELEVANT COURSEWORK
 
 Intro to Computing, Principles of Programming Languages, Introduction to Data Structures, Data Structures II, Artificial Intelligence, Network Computing
+
+---
 
 ## SKILLS
 
 Programming Languages: C++, HTML, Python
 Technologies: Visual Studio Code, Git/GitHub
 
+---
+
 ## PROJECTS
 
 Price Comparison May 2022 - Present
 Creating a web app using C++ to compare living costs in different countries
 Implemented a user input system which stores values in dedicated memory to compare to other values
+
+---
 
 ## RELEVANT EXPERIENCE
 
@@ -32,6 +50,8 @@ Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Sc
 Intern Jul 2023 - Aug 2023
 Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history
 Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals
+
+---
 
 ## SUPPORTING EXPERIENCE
 
