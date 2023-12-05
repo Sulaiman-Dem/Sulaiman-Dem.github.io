@@ -1,7 +1,5 @@
 # Sulaiman-Dem.github.io
 
-## [Visit website](https://group9-wp-su23.tiqc01.com "Wordpress Team AI")
-
 ## The Future of AI:
 
 ---
