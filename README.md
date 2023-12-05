@@ -1,6 +1,7 @@
 # Sulaiman-Dem.github.io
 
 [LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
+<a href="images\Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
 
 ## The Future of AI:
 
