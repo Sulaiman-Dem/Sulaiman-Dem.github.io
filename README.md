@@ -1,5 +1,7 @@
 # Sulaiman-Dem.github.io
 
+[LinkedIn](www.linkedin.com/in/sulaiman-dem-zerigat-43379a169/)
+
 ## The Future of AI:
 
 The future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the tech field because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that enhances your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers even the ones with many years of experience lack. If I know how to use the tools I can teach it to others. That is how you create a legacy.
