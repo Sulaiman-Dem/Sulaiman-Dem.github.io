@@ -2,8 +2,6 @@
 
 ## The Future of AI:
 
----
-
 The future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the tech field because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that enhances your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers even the ones with many years of experience lack. If I know how to use the tools I can teach it to others. That is how you create a legacy.
 
 ## EDUCATION
@@ -13,7 +11,7 @@ Bachelor of Science in Computer Science Expected Dec 2023
 
 ## RELEVANT COURSEWORK
 
-Intro to Computing, Principles of Programming Languages, Introduction to Data Structures, Data Structures II, Artificial Intelligence, Network Computing
+Intro to Computing, Principles of Programming Languages, Introduction to Data Structures, Data Structures II, Artificial Intelligence, Operating Systems
 
 ## SKILLS
 
@@ -29,6 +27,10 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 - Created a model that can detect deepfakes in a group of 2. Using the framework TensorFlow with sequential API
 - As a team, we both worked together from beginning to end to understand the steps to build a model from scratch. The data prep, data visuals, data augmentation and model building/evaluation using Visual Studio Code and Google Colab Pro for the model training
+- Our team name is called Underfunded Wizards
+<div>
+<img src="images\Underfunded_Wizards.png" width="90">
+</div>
 
 [The Future of Art](https://devpost.com/software/the-future-of-art?ref_content=my-projects-tab&ref_feature=my_projects)
 
