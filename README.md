@@ -32,9 +32,16 @@ Technologies: Visual Studio Code, Git/GitHub
 
 ## PROJECTS
 
-Price Comparison May 2022 - Present
-Creating a web app using C++ to compare living costs in different countries
-Implemented a user input system which stores values in dedicated memory to compare to other values
+[Deepfake Hunter](https://huggingface.co/spaces/UW123/Deepfake_Hunter) 	September 2023 - Present 
+- Created a model that can detect deepfakes in a group of 2. Using the framework TensorFlow with sequential API
+- As a team, we both worked together from beginning to end to understand the steps to build a model from scratch. The data prep, data visuals, data augmentation and model building/evaluation using Visual Studio Code and Google Colab Pro for the model training
+
+
+[The Future of Art](https://devpost.com/software/the-future-of-art?ref_content=my-projects-tab&ref_feature=my_projects)      											August 2023
+- Created a website in a group of 4 that presented the history of art and our opinion toward the future of art for a hackathon competition themed The Art & Tech
+- Created the HTML structure of the website
+Managed and organised each individual in my group to complete a certain task that related to their strengths
+
 
 ---
 
