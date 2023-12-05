@@ -1,6 +1,6 @@
 # Sulaiman-Dem.github.io
 
-[LinkedIn](www.linkedin.com/in/sulaiman-dem-zerigat-43379a169/)
+[LinkedIn](www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
 
 ## The Future of AI:
 
