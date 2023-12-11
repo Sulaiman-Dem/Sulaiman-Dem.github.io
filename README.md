@@ -1,7 +1,7 @@
 # Sulaiman-Dem.github.io
 
-[LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
-<a href="images\Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
+1. [LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
+2. <a href="images\Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
 
 ## The Future of AI:
 
@@ -53,6 +53,12 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 - Created the HTML structure of the website and researched all the information which explains pro and cons of AI, how to build an AI model and our opinion of the future of AI
 - Managed and organised each individual in my group to complete a certain task that related to their strengths and dedicated a co-leader to make sure the work was finished on the required due dates
 
+[AI Tools](https://sulaiman-wp-su23.tiqc01.com/)
+
+> July 2023
+
+- Created a website using wordpress that helps small businesses understand the technologies of AI tools that they can use to make them more efficient and successful
+
 ## RELEVANT EXPERIENCE
 
 ### CUNY Tech Prep | NY
@@ -92,3 +98,7 @@ Developed a list of AI tools using Google Slides and a website with WordPress th
 
 - Created an environment that allowed workers to have an easier task to complete their jobs by preparing the required handy tools to work at a faster pace and with less stress
   Shadowed mechanics and electricians to maintain the vehicle well-being of their engines
+
+## Testimonies
+
+On behalf of TIQC, I like to congratulate you on your commitment and dedication to participate in the hybrid internship this summer. You have earned the perfect onsite attendance by showing up in accordance with your onsite schedule the past six weeks. - Tech Incubator Queens College
