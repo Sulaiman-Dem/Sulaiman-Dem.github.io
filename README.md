@@ -3,9 +3,13 @@
 1. [LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
 2. <a href="images\Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
 
-## The Future of AI:
+## About me
 
-The future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the tech field because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that enhances your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers even the ones with many years of experience lack. If I know how to use the tools I can teach it to others. That is how you create a legacy.
+I am a senior at CUNY York College who is currently looking for a full-time job in data science specifically working with improving AI. Since, the future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the AI enhancement because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers even the ones with many years of experience lack. If I know how to use the tools I can teach them to others. That is how you create a legacy.
+
+I will graduate in December 2023 with my bachelor's in Computer Science. However, I am currently doing a data science fellowship at CUNY Tech Prep to get more experience in the field of analysis and big data so I can do work with AI.
+
+Eventually, in the future, I want to work on understanding different ways of approaching deep neural networks and be one of those people who can create AGI (artificial general intelligence) also known as common sense AI. Then implement that AGI into robotics. So the robot will have the brain of AGI. This is how humans will be able to evolve as a human race.
 
 ## EDUCATION
 
