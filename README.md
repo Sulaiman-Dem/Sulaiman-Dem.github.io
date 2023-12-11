@@ -1,4 +1,4 @@
-# Sulaiman-Dem.github.io
+# Sulaiman Dem-Zerigat Portfolio
 
 1. [LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
 2. <a href="images\Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
