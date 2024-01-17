@@ -16,7 +16,7 @@ Eventually, in the future, I want to work on understanding different ways of app
 York College, The City University of New York (CUNY) | Jamaica, NY
 Bachelor of Science in Computer Science
 
-> Expected December 2023
+> Graduated December 2023
 
 ## RELEVANT COURSEWORK
 
