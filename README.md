@@ -34,8 +34,9 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 > September 2023 - Present
 
-- Created a model that can detect deepfakes in a group of 2. Using the framework TensorFlow with sequential API
-- As a team, we both worked together from beginning to end to understand the steps to build a model from scratch. The data prep, data visuals, data augmentation and model building/evaluation using Visual Studio Code and Google Colab Pro for the model training
+- Created in a team of 2 a TensorFlow model to authenticate 200k+ audio files, leveraging the library Librosa for feature extraction and created a Python data pipeline automation to detect whether audio is fake or real
+- Streamlined model development using Visual Studio Code and accelerated training with Google Colab Pro's GPUs
+- Deployed a user-centric interface on Streamlit Community Cloud to allow users to upload audio for real-time testing
 - Our team name is called Underfunded Wizards
 <div>
 <img src="images\Underfunded_Wizards.png" width="90">
