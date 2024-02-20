@@ -30,7 +30,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 ## PROJECTS
 
-[Deepfake Hunter](https://huggingface.co/spaces/UW123/Deepfake_Hunter)
+[Deepfake Hunter](https://github.com/Sulaiman-Dem/DeepFake-Hunter)
 
 > September 2023 - Present
 
