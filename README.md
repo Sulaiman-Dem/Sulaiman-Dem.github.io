@@ -24,7 +24,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 ## SKILLS
 
-- Programming Languages: C++, HTML, Markdown, Python
+- Programming Languages: Python, Markdown, HTML, C++
 - Framework: TensorFlow, streamlit
 - Technologies: Visual Studio Code, Google Colab, Git/GitHub, HuggingFace
 
@@ -32,7 +32,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 [Deepfake Hunter](https://github.com/Sulaiman-Dem/DeepFake-Hunter)
 
-> September 2023 - Present
+> September 2023 - January 2024
 
 - Created in a team of 2 a TensorFlow model to authenticate 200k+ audio files, leveraging the library Librosa for feature extraction and created a Python data pipeline automation to detect whether audio is fake or real
 - Streamlined model development using Visual Studio Code and accelerated training with Google Colab Pro's GPUs
