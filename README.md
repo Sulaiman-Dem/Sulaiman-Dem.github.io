@@ -55,7 +55,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 > July 2023
 
 - Created a website using wordpress and HTML in a group of 5
-- Created the HTML structure of the website and researched all the information which explains pro and cons of AI, how to build an AI model and our opinion of the future of AI
+- Created the HTML structure of the website and researched all the information which explains pros and cons of AI, how to build an AI model and our opinion of the future of AI
 - Managed and organised each individual in my group to complete a certain task that related to their strengths and dedicated a co-leader to make sure the work was finished on the required due dates
 
 [AI Tools](https://sulaiman-wp-su23.tiqc01.com/)
