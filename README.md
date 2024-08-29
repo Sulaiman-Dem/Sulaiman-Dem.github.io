@@ -24,7 +24,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 ## SKILLS
 
-- Programming Languages: Python, Markdown, HTML, C++
+- Programming Languages: Python, Markdown, SQL, HTML, C++
 - Framework: TensorFlow, streamlit
 - Technologies: Visual Studio Code, Google Colab, Git/GitHub, HuggingFace
 
