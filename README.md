@@ -70,7 +70,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 #### Intern
 
-> Fellow July 2023 - Present
+> Fellow July 2023 - June 2024
 
 Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modelling, data visualisation, machine learning techniques, data science process, and big data
 
