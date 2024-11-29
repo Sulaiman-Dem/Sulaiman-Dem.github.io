@@ -5,11 +5,11 @@
 
 ## About me
 
-I am a graduate from CUNY York College who is currently looking for a full-time job in data science specifically working with improving AI. Since, the future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the AI enhancement because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers even the ones with many years of experience lack. If I know how to use the tools I can teach them to others. That is how you create a legacy.
+I am a CUNY York College graduate looking for a full-time job in data science/AI/Machine learning or similar fields. Since, the future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the AI enhancement because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers with many years of experience lack. If I know how to use the tools I can teach them to others.
 
-I am currently doing a data science fellowship at CUNY Tech Prep to get more experience in the field of analysis and big data so I can do work with AI.
+I finished doing a data science fellowship at CUNY Tech Prep to get more experience in analysis and big data so I can work with AI.
 
-Eventually, in the future, I want to work on understanding different ways of approaching deep neural networks and be one of those people who can create AGI (artificial general intelligence) also known as common sense AI. Then implement that AGI into robotics. So the robot will have the brain of AGI. This is how humans will be able to evolve as a human race.
+Eventually, I want to get a job in data science/AI/machine learning and work with a team to face the question of how could we leverage AI into our everyday lives.
 
 ## EDUCATION
 
@@ -24,9 +24,9 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 ## SKILLS
 
-- Programming Languages: Python, Markdown, SQL, HTML, C++
-- Framework: TensorFlow, streamlit
-- Technologies: Visual Studio Code, Google Colab, Git/GitHub, HuggingFace, Microsoft Word, Microsoft Excel, Google Sheet, Google Slides
+- Programming Languages: Python, Markdown, HTML, SQL, C++
+- Frameworks: Tensorflow, Streamlit
+- Technologies: Visual Studio Code, Google Colab, Git/GitHub, HuggingFace, Microsoft Word, Microsoft Excel, Google Sheet, Google Slides, Jupyter Notebook
 
 ## PROJECTS
 
@@ -34,21 +34,18 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 > September 2023 - January 2024
 
-- Created in a team of 2 a TensorFlow model to authenticate 200k+ audio files, leveraging the library Librosa for feature extraction and created a Python data pipeline automation to detect whether audio is fake or real
-- Streamlined model development using Visual Studio Code and accelerated training with Google Colab Pro's GPUs
-- Deployed a user-centric interface on Streamlit Community Cloud to allow users to upload audio for real-time testing
-- Our team name is called Underfunded Wizards
-<div>
-<img src="images\Underfunded_Wizards.png" width="90">
-</div>
+- Collaborated with a team of 2 to develop a TensorFlow model to authenticate over 200,000 audio files.
+- Leveraged the Librosa library for feature extraction and created a Python data pipeline automation to detect fake audio.
+- Streamlined model development using Visual Studio Code and accelerated training with Google Colab Pro's GPUs.
+- Deployed a user-centric interface on Streamlit Community Cloud, enabling users to upload audio for real-time testing.
 
 [The Future of Art](https://devpost.com/software/the-future-of-art?ref_content=my-projects-tab&ref_feature=my_projects)
 
 > August 2023
 
-- Created a website in a group of 4 that presented the history of art and our opinion toward the future of art for a hackathon competition themed The Art & Tech
-- Created the HTML structure of the website
-- Managed and organised each individual in my group to complete a certain task that related to their strengths
+- Collaborated with a team of 4 to create a website presenting the history and future of art.
+- Created the HTML skeleton of the website using Visual Studio Code.
+  Managed and organised team members to ensure timely completion of tasks aligned with their strengths.
 
 [The Future of AI](https://group9-wp-su23.tiqc01.com)
 
