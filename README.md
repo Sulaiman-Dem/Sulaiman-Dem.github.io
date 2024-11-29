@@ -69,7 +69,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 > Fellow July 2023 - June 2024
 
-Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modelling, data visualisation, machine learning techniques, data science process, and big data
+- Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modelling, data visualisation, machine learning techniques, data science process, and big data
 
 ### CUNY Career Launch - Tech Incubator | Queens, NY
 
@@ -77,8 +77,8 @@ Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Sc
 
 > Intern July 2023 - August 2023
 
-Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history
-Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals
+- Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history
+- Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals
 
 ---
 
@@ -99,8 +99,8 @@ Developed a list of AI tools using Google Slides and a website with WordPress th
 > Intern October 2018 - February 2019
 
 - Created an environment that allowed workers to have an easier task to complete their jobs by preparing the required handy tools to work at a faster pace and with less stress
-  Shadowed mechanics and electricians to maintain the vehicle well-being of their engines
+- Shadowed mechanics and electricians to maintain the vehicle well-being of their engines
 
 ## Testimonies
 
-On behalf of TIQC, I like to congratulate you on your commitment and dedication to participate in the hybrid internship this summer. You have earned the perfect onsite attendance by showing up in accordance with your onsite schedule the past six weeks. - Tech Incubator Queens College
+- On behalf of TIQC, I like to congratulate you on your commitment and dedication to participate in the hybrid internship this summer. You have earned the perfect onsite attendance by showing up in accordance with your onsite schedule the past six weeks. - Tech Incubator Queens College
