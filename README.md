@@ -5,11 +5,11 @@
 
 ## About me
 
-I am a CUNY York College graduate looking for a full-time job in data science/AI/Machine learning or similar fields. Since, the future is all about technology, and no one can deny that. We, humans, can only progress as a race when we advance our knowledge of our surroundings, but the only way to make that easier is to use technology. This is why I am interested in joining the AI enhancement because it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations. What separates me from other programmers is the ability to take a complex system/code and explain it in terms that everyone can understand, which most programmers with many years of experience lack. If I know how to use the tools I can teach them to others.
+What separates me from other programmers is the ability to take a complex system/code and explain it in terms everyone can understand. I am a U.S. citizen authorized to work in the United States and eager to contribute my skills to your team. I am a CUNY York College graduate looking for a full-time job in data science/AI/Machine learning or similar fields. Since, the future is all about technology, and no one can deny that. This is why I am interested in joining AI enhancement; it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations.
 
 I finished doing a data science fellowship at CUNY Tech Prep to get more experience in analysis and big data so I can work with AI.
 
-Eventually, I want to get a job in data science/AI/machine learning and work with a team to face the question of how could we leverage AI into our everyday lives.
+Eventually, I want to get a job in data science/AI/machine learning and work with a team to explore how we could leverage AI into our everyday lives
 
 ## EDUCATION
 
@@ -24,9 +24,9 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 ## SKILLS
 
-- Programming Languages: Python, Markdown, HTML, SQL, C++
+- Programming Languages: Python, Markdown, HTML, SQL
 - Frameworks: Tensorflow, Streamlit
-- Technologies: Visual Studio Code, Google Colab, Git/GitHub, HuggingFace, Microsoft Word, Microsoft Excel, Google Sheet, Google Slides, Jupyter Notebook
+- Technologies: Visual Studio Code, Google Colab, Git/GitHub, HuggingFace, Microsoft Word, Microsoft Excel, Google Sheet, Google Slides, Jupyter Notebook, Google Doc
 
 ## PROJECTS
 
@@ -98,8 +98,7 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 > Intern October 2018 - February 2019
 
-- Created an environment that allowed workers to have an easier task to complete their jobs by preparing the required handy tools to work at a faster pace and with less stress
-- Shadowed mechanics and electricians to maintain the vehicle well-being of their engines
+- Moved data from an old system to a newer, more optimized database system
 
 ## Testimonies
 
