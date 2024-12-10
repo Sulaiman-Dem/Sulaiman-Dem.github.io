@@ -1,7 +1,7 @@
 # Sulaiman Dem-Zerigat's Portfolio
 
 1. [LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
-2. <a href="images/1.Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
+2. <a href="images/Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
 
 ## About me
 
