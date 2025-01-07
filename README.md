@@ -2,6 +2,7 @@
 
 1. [LinkedIn](http://www.linkedin.com/in/sulaiman-dem-zerigat-43379a169)
 2. <a href="images/Sulaiman Dem-Zerigat Resume.pdf" title="Download" download>Resume</a>
+3. <a href="images/Transcript.pdf" title="Download" download>College Transcript for Bachelor's Degree</a>
 
 ## About me
 
