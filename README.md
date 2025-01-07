@@ -19,6 +19,12 @@ Bachelor of Science in Computer Science
 
 > Graduated December 2023
 
+## Certificates
+
+1. <a href="images/CTP Certificate.pdf" title="Download" download>CUNY Tech Prep</a>
+
+- This candidate has successfully completed CUNY Tech Prep, a year-long technical and professional development program. The candidate learned in-demand technologies in Web Development or Data Science, developed their professional skills through individualized career coaching, and applied their learnings through a group project, built from design to implementation and pitched at CUNY Tech Prep Demo Night.
+
 ## RELEVANT COURSEWORK
 
 Intro to Computing, Principles of Programming Languages, Introduction to Data Structures, Data Structures II, Artificial Intelligence, Operating Systems
