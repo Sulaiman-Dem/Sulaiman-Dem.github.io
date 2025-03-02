@@ -12,22 +12,11 @@ I finished doing a data science fellowship at CUNY Tech Prep to get more experie
 
 Eventually, I want to get a job in data science/AI/machine learning and work with a team to explore how we could leverage AI into our everyday lives.
 
-## EDUCATION
-
-York College, The City University of New York (CUNY) | Jamaica, NY
-Bachelor of Science in Computer Science
-
-> Graduated December 2023
-
 ## Certificates
 
 1. <a href="images/CTP Certificate.pdf" title="Download" download>CUNY Tech Prep</a>
 
 - This candidate has successfully completed CUNY Tech Prep, a year-long technical and professional development program. The candidate learned in-demand technologies in Web Development or Data Science, developed their professional skills through individualized career coaching, and applied their learnings through a group project, built from design to implementation and pitched at CUNY Tech Prep Demo Night.
-
-## RELEVANT COURSEWORK
-
-Intro to Computing, Principles of Programming Languages, Introduction to Data Structures, Data Structures II, Artificial Intelligence, Operating Systems
 
 ## SKILLS
 
@@ -70,6 +59,18 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 
 ## RELEVANT EXPERIENCE
 
+### Randstad @ NXP | Austin, TX
+
+#### Machine Operator
+
+> February 2025 - Present
+
+- Assist in the operation and optimization of automated manufacturing systems.
+- Train in machine processes, data monitoring, and efficiency improvement techniques.
+- Analyze material usage to reduce waste and enhance production quality.
+- Ensure compliance with safety standards while working with advanced machinery.
+- Develop problem-solving skills by troubleshooting equipment and workflow issues
+
 ### CUNY Tech Prep | NY
 
 #### Intern
@@ -106,6 +107,13 @@ Intro to Computing, Principles of Programming Languages, Introduction to Data St
 > Intern October 2018 - February 2019
 
 - Moved data from an old system to a newer, more optimized database system
+
+## EDUCATION
+
+York College, The City University of New York (CUNY) | Jamaica, NY
+Bachelor of Science in Computer Science
+
+> Graduated December 2023
 
 ## Testimonies
 
