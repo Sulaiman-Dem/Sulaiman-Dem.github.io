@@ -90,8 +90,6 @@ I look forward to bringing my technical skills, problem-solving mindset, and ent
 - Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history
 - Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals
 
----
-
 ## SUPPORTING EXPERIENCE
 
 ### Jumpstart | Jamaica, NY
