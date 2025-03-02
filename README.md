@@ -6,9 +6,13 @@
 
 ## About me
 
-What separates me from other programmers is the ability to take a complex system/code and explain it in terms everyone can understand. I am a U.S. citizen authorized to work in the United States and eager to contribute my skills to your team. I am a CUNY York College graduate looking for a full-time job in data science/AI/Machine learning or similar fields like BI developer, SQL developer, data analyst, etc. Since, the future is all about technology, and no one can deny that. This is why I am interested in joining AI enhancement; it is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations.
+What sets me apart as a programmer is my ability to break down complex systems and code into simple, understandable terms for diverse audiences. As a U.S. citizen authorized to work in the United States, I am eager to contribute my skills and passion for technology to your team.
 
-Eventually, I want to get a job in AI and robotics and work with a team to explore how we could leverage AI/robotics into our everyday lives in fitness and health since staying healthy is a top priority in my life.
+I am a graduate of CUNY York College seeking a full-time role in AI, machine learning, or related fields such as SQL development, or data analysis. Technology is constantly evolving, and I thrive in environments where continuous learning and innovation are encouraged. Every project I undertake provides a unique opportunity to expand my expertise and contribute to advancements in the field.
+
+My long-term goal is to work in AI and robotics, collaborating with a team to explore how these technologies can enhance everyday life—particularly in fitness and health, areas that are personally important to me. I am excited about the potential of AI-driven solutions to promote healthier lifestyles and improve overall well-being.
+
+I look forward to bringing my technical skills, problem-solving mindset, and enthusiasm for innovation to a forward-thinking organization.
 
 ## Certificates
 
