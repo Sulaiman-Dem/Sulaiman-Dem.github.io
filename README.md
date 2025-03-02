@@ -75,9 +75,9 @@ I look forward to bringing my technical skills, problem-solving mindset, and ent
 
 ### CUNY Tech Prep | NY
 
-#### Intern
+#### Fellow
 
-> Fellow July 2023 - June 2024
+> July 2023 - June 2024
 
 - Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modelling, data visualisation, machine learning techniques, data science process, and big data
 
@@ -85,7 +85,7 @@ I look forward to bringing my technical skills, problem-solving mindset, and ent
 
 #### Intern
 
-> Intern July 2023 - August 2023
+> July 2023 - August 2023
 
 - Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history
 - Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals
