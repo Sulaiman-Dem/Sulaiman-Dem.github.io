@@ -6,11 +6,9 @@
 
 ## About me
 
-What separates me from other programmers is the ability to take a complex system/code and explain it in terms everyone can understand. I am a U.S. citizen authorized to work in the United States and eager to contribute my skills to your team. I am a CUNY York College graduate looking for a full-time job in data science/AI/Machine learning or similar fields like BI developer, SQL developer, data analyst, etc. Since, the future is all about technology, and no one can deny that. This is why I am interested in joining AI enhancement; it is something that is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations.
+What separates me from other programmers is the ability to take a complex system/code and explain it in terms everyone can understand. I am a U.S. citizen authorized to work in the United States and eager to contribute my skills to your team. I am a CUNY York College graduate looking for a full-time job in data science/AI/Machine learning or similar fields like BI developer, SQL developer, data analyst, etc. Since, the future is all about technology, and no one can deny that. This is why I am interested in joining AI enhancement; it is always a learning experience. Every new project you do or finish provides you with a unique experience that improves your knowledge further for future innovations.
 
-I finished doing a data science fellowship at CUNY Tech Prep to get more experience in analysis and big data so I can work with AI.
-
-Eventually, I want to get a job in data science/AI/machine learning and work with a team to explore how we could leverage AI into our everyday lives.
+Eventually, I want to get a job in AI and robotics and work with a team to explore how we could leverage AI/robotics into our everyday lives in fitness and health since staying healthy is a top priority in my life.
 
 ## Certificates
 
