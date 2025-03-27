@@ -21,11 +21,12 @@ I look forward to bringing my technical skills, problem-solving mindset, and ent
 
 > February 2025 - Present
 
-- Assist in the operation and optimization of automated manufacturing systems.
-- Train in machine processes, data monitoring, and efficiency improvement techniques.
-- Analyze material usage to reduce waste and enhance production quality.
-- Ensure compliance with safety standards while working with advanced machinery.
-- Develop problem-solving skills by troubleshooting equipment and workflow issues.
+- Handle semiconductor wafers in a high-precision manufacturing environment, ensuring proper processing and transportation.
+- Monitor system performance in real-time, identifying and reporting tool malfunctions to engineers and maintenance teams to minimize downtime.
+- Analyze workflow and propose process improvements, such as enhanced wafer transport mapping, to reduce human error and improve efficiency.
+- Maintain strict adherence to cleanroom protocols and safety standards to ensure optimal wafer quality.
+- Certified in Wafer Etching, Wafer Photo, and Wafer Transportation, demonstrating expertise in critical
+  semiconductor manufacturing processes.
 
 ### Amazing Homecare | NY
 
