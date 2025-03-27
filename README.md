@@ -13,6 +13,65 @@ My long-term goal is to work in AI and robotics, collaborating with a team to ex
 
 I look forward to bringing my technical skills, problem-solving mindset, and enthusiasm for innovation to a forward-thinking organization.
 
+## RELEVANT EXPERIENCE
+
+### Randstad @ NXP | Austin, TX
+
+#### Machine Operator
+
+> February 2025 - Present
+
+- Assist in the operation and optimization of automated manufacturing systems.
+- Train in machine processes, data monitoring, and efficiency improvement techniques.
+- Analyze material usage to reduce waste and enhance production quality.
+- Ensure compliance with safety standards while working with advanced machinery.
+- Develop problem-solving skills by troubleshooting equipment and workflow issues.
+
+### Amazing Homecare | NY
+
+Home Health Aide
+
+> July 2023 - January 2025
+
+- Assisted clients with daily living activities, including personal care and meal preparation.
+- Monitored vital signs, medication schedules, and reported health concerns.
+- Provided companionship and emotional support to improve client well-being.
+- Maintained accurate records and communicated with healthcare teams.
+- Ensured a clean, safe environment by following hygiene and safety protocols.
+
+### CUNY Tech Prep | NY
+
+#### Fellow
+
+> July 2023 - June 2024
+
+- Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modelling, data visualisation, machine learning techniques, data science process, and big data.
+
+### CUNY Career Launch - Tech Incubator | NY
+
+#### Intern
+
+> July 2023 - August 2023
+
+- Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history.
+- Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals.
+
+### Jumpstart | NY
+
+#### Team Leader
+
+> October 2018 - May 2019
+
+- Managed, organised, and created lesson plans for a class of 18 - 20 children in a team of 2-3 for a national early education program.
+
+### Reliance Automobile Solutions | NY
+
+#### Intern
+
+> October 2018 - February 2019
+
+- Migrated data from an old system to a newer, more optimized database system.
+
 ## Certificates
 
 1. <a href="images/CTP Certificate.pdf" title="Download" download>CUNY Tech Prep</a>
@@ -48,64 +107,15 @@ I look forward to bringing my technical skills, problem-solving mindset, and ent
 
 > July 2023
 
-- Created a website using wordpress and HTML in a group of 5
-- Created the HTML structure of the website and researched all the information which explains pros and cons of AI, how to build an AI model and our opinion of the future of AI
-- Managed and organised each individual in my group to complete a certain task that related to their strengths and dedicated a co-leader to make sure the work was finished on the required due dates
+- Created a website using wordpress and HTML in a group of 5.
+- Created the HTML structure of the website and researched all the information which explains pros and cons of AI, how to build an AI model and our opinion of the future of AI.
+- Managed and organised each individual in my group to complete a certain task that related to their strengths and dedicated a co-leader to make sure the work was finished on the required due dates.
 
 [AI Tools](https://sulaiman-wp-su23.tiqc01.com/)
 
 > July 2023
 
-- Created a website using wordpress that helps small businesses understand the technologies of AI tools that they can use to make them more efficient and successful
-
-## RELEVANT EXPERIENCE
-
-### Randstad @ NXP | Austin, TX
-
-#### Machine Operator
-
-> February 2025 - Present
-
-- Assist in the operation and optimization of automated manufacturing systems.
-- Train in machine processes, data monitoring, and efficiency improvement techniques.
-- Analyze material usage to reduce waste and enhance production quality.
-- Ensure compliance with safety standards while working with advanced machinery.
-- Develop problem-solving skills by troubleshooting equipment and workflow issues
-
-### CUNY Tech Prep | NY
-
-#### Fellow
-
-> July 2023 - June 2024
-
-- Learn in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modelling, data visualisation, machine learning techniques, data science process, and big data
-
-### CUNY Career Launch - Tech Incubator | Queens, NY
-
-#### Intern
-
-> July 2023 - August 2023
-
-- Created a website using HTML and WordPress with a team of 5 to explain the fundamentals of AI and its history
-- Developed a list of AI tools using Google Slides and a website with WordPress that small businesses can use to improve their company goals
-
-## SUPPORTING EXPERIENCE
-
-### Jumpstart | Jamaica, NY
-
-#### Team Leader
-
-> October 2018 - May 2019
-
-- Managed, organised, and created lesson plans for a class of 18 - 20 children in a team of 2-3 for a national early education program
-
-### Reliance Automobile Solutions | Jamaica, NY
-
-#### Intern
-
-> Intern October 2018 - February 2019
-
-- Moved data from an old system to a newer, more optimized database system
+- Created a website using wordpress that helps small businesses understand the technologies of AI tools that they can use to make them more efficient and successful.
 
 ## EDUCATION
 
