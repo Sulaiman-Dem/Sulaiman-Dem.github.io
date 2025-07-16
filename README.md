@@ -5,13 +5,15 @@
 
 ## About me
 
-What sets me apart as a programmer is my ability to break down complex systems and code into simple, understandable terms for diverse audiences. As a U.S. citizen authorized to work in the United States, I am eager to contribute my skills and passion for technology to your team.
+I’m a Computer Science graduate with a strong passion for solving real-world problems through technology, especially where data plays a central role. With hands-on experience in both advanced manufacturing and applied data science, I bring a unique combination of technical precision, analytical thinking, and adaptability to the table.
 
-I am a graduate of CUNY York College seeking a full-time role in AI, machine learning, or related fields such as SQL development, or data analysis. Technology is constantly evolving, and I thrive in environments where continuous learning and innovation are encouraged. Every project I undertake provides a unique opportunity to expand my expertise and contribute to advancements in the field.
+At NXP Semiconductors, I currently work as a Machine Operator through Randstad, where I’ve developed a deep understanding of high-precision environments. I monitor live tool performance, troubleshoot real-time errors, and collaborate with engineering teams to maintain optimal output. My work here has sharpened my skills in system analysis, documentation, and cross-functional communication—all vital in any tech-driven role.
 
-My long-term goal is to work in AI and robotics, collaborating with a team to explore how these technologies can enhance everyday life—particularly in fitness and health, areas that are personally important to me. I am excited about the potential of AI-driven solutions to promote healthier lifestyles and improve overall well-being.
+In parallel, I completed the highly respected CUNY Tech Prep Data Science Fellowship, where I gained practical experience with Python, SQL, machine learning, data visualisation, and cloud-based collaboration tools. My capstone project, Deepfake Hunter, involved building a TensorFlow model capable of detecting synthetic audio from over 200,000 samples. I built automated data pipelines with Librosa, deployed a user-facing interface with Streamlit, and trained the model using Google Colab Pro. This project taught me not only how to apply machine learning concepts but also how to deploy them in a way that’s accessible and intuitive for end users.
 
-I look forward to bringing my technical skills, problem-solving mindset, and enthusiasm for innovation to a forward-thinking organization.
+My technical toolkit includes Python, SQL, TensorFlow, Pandas, Scikit-learn, Jupyter Notebooks, Streamlit, and Git/GitHub, and I’m always learning new tools and techniques to improve my craft. Whether it’s building data pipelines, writing clean code, analysing system behaviour, or collaborating with teams to deliver quality results, I take pride in being resourceful, self-motivated, and impact-driven.
+
+I’m currently seeking a full-time role in tech that allows me to work on data-centric problems, whether in AI/ML, analytics, back-end development, or technical support. I’m particularly interested in roles where I can contribute to meaningful projects—ideally in industries such as health tech, clean tech, AI safety, or automation—but I’m open to any opportunity that challenges me to grow and solve problems using data and logic.
 
 ## RELEVANT EXPERIENCE
 
@@ -22,8 +24,8 @@ I look forward to bringing my technical skills, problem-solving mindset, and ent
 > February 2025 - Present
 
 - Handle semiconductor wafers in a high-precision manufacturing environment, ensuring proper processing and transportation.
-- Monitor system performance in real-time, identifying and reporting tool malfunctions to engineers and maintenance teams to minimize downtime.
-- Analyze workflow and propose process improvements, such as enhanced wafer transport mapping, to reduce human error and improve efficiency.
+- Monitor system performance in real-time, identifying and reporting tool malfunctions to engineers and maintenance teams to minimise downtime.
+- Analyse workflow and propose process improvements, such as enhanced wafer transport mapping, to reduce human error and improve efficiency.
 - Maintain strict adherence to cleanroom protocols and safety standards to ensure optimal wafer quality.
 - Certified in Wafer Etching, Wafer Photo, and Wafer Transportation, demonstrating expertise in critical
   semiconductor manufacturing processes.
@@ -71,13 +73,13 @@ Home Health Aide
 
 > October 2018 - February 2019
 
-- Migrated data from an old system to a newer, more optimized database system.
+- Migrated data from an old system to a newer, more optimised database system.
 
 ## Certificates
 
 1. <a href="images/CTP Certificate.pdf" title="Download" download>CUNY Tech Prep</a>
 
-- This candidate has successfully completed CUNY Tech Prep, a year-long technical and professional development program. The candidate learned in-demand technologies in Web Development or Data Science, developed their professional skills through individualized career coaching, and applied their learnings through a group project, built from design to implementation and pitched at CUNY Tech Prep Demo Night.
+- This candidate has completed CUNY Tech Prep, a year-long technical and professional development program. The candidate learned in-demand technologies in Web Development or Data Science, developed their professional skills through individualised career coaching and applied their learnings through a group project, built from design to implementation and pitched at CUNY Tech Prep Demo Night.
 
 ## SKILLS
 
@@ -102,21 +104,21 @@ Home Health Aide
 
 - Collaborated with a team of 4 to create a website presenting the history and future of art.
 - Created the HTML skeleton of the website using Visual Studio Code.
-  Managed and organised team members to ensure timely completion of tasks aligned with their strengths.
+  Managed and organised team members to ensure the timely completion of tasks aligned with their strengths.
 
 [The Future of AI](https://group9-wp-su23.tiqc01.com)
 
 > July 2023
 
-- Created a website using wordpress and HTML in a group of 5.
-- Created the HTML structure of the website and researched all the information which explains pros and cons of AI, how to build an AI model and our opinion of the future of AI.
+- Created a website using WordPress and HTML in a group of 5.
+- Created the HTML structure of the website and researched all the information which explains the pros and cons of AI, how to build an AI model and our opinion on the future of AI.
 - Managed and organised each individual in my group to complete a certain task that related to their strengths and dedicated a co-leader to make sure the work was finished on the required due dates.
 
 [AI Tools](https://sulaiman-wp-su23.tiqc01.com/)
 
 > July 2023
 
-- Created a website using wordpress that helps small businesses understand the technologies of AI tools that they can use to make them more efficient and successful.
+- Created a website using WordPress that helps small businesses understand the technologies of AI tools that they can use to make them more efficient and successful.
 
 ## EDUCATION
 
