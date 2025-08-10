@@ -5,23 +5,32 @@
 
 ## About me
 
-I’m a Computer Science graduate with a strong passion for solving real-world problems through technology, especially where data plays a central role. With hands-on experience in both advanced manufacturing and applied data science, I bring a unique combination of technical precision, analytical thinking, and adaptability to the table.
+I’m a Computer Science graduate with hands-on experience in both enterprise hardware testing and applied data science. Currently, I work as a System Test Technician at ZT Systems, where I perform comprehensive hardware and system tests on enterprise-grade servers, replace defective components, run terminal-based diagnostics, and verify quality standards before deployment. My role demands precision, problem-solving, and technical adaptability in a fast-paced environment.
 
-At NXP Semiconductors, I currently work as a Machine Operator through Randstad, where I’ve developed a deep understanding of high-precision environments. I monitor live tool performance, troubleshoot real-time errors, and collaborate with engineering teams to maintain optimal output. My work here has sharpened my skills in system analysis, documentation, and cross-functional communication—all vital in any tech-driven role.
+Previously, at NXP Semiconductors, I worked in a high-precision manufacturing environment, where I monitored live system performance, identified faults, and collaborated with engineering teams to ensure optimal output.
 
-In parallel, I completed the highly respected CUNY Tech Prep Data Science Fellowship, where I gained practical experience with Python, SQL, machine learning, data visualisation, and cloud-based collaboration tools. My capstone project, Deepfake Hunter, involved building a TensorFlow model capable of detecting synthetic audio from over 200,000 samples. I built automated data pipelines with Librosa, deployed a user-facing interface with Streamlit, and trained the model using Google Colab Pro. This project taught me not only how to apply machine learning concepts but also how to deploy them in a way that’s accessible and intuitive for end users.
+In addition to my industry experience, I completed the CUNY Tech Prep Data Science Fellowship, which provided me with proficiency in Python, SQL, machine learning, and data visualisation. My capstone project, Deepfake Hunter, involved building a TensorFlow model to detect synthetic audio from over 200,000 samples, creating automated data pipelines, and deploying a user-friendly interface using Streamlit.
 
-My technical toolkit includes Python, SQL, TensorFlow, Pandas, Scikit-learn, Jupyter Notebooks, Streamlit, and Git/GitHub, and I’m always learning new tools and techniques to improve my craft. Whether it’s building data pipelines, writing clean code, analysing system behaviour, or collaborating with teams to deliver quality results, I take pride in being resourceful, self-motivated, and impact-driven.
-
-I’m currently seeking a full-time role in tech that allows me to work on data-centric problems, whether in AI/ML, analytics, back-end development, or technical support. I’m particularly interested in roles where I can contribute to meaningful projects—ideally in industries such as health tech, clean tech, AI safety, or automation—but I’m open to any opportunity that challenges me to grow and solve problems using data and logic.
+My technical toolkit includes Python, SQL, TensorFlow, Pandas, Scikit-learn, Jupyter Notebooks, Streamlit, and Git/GitHub. I’m passionate about solving real-world problems where data and technology intersect and am seeking a full-time role in AI/ML, analytics, back-end development, or technical support—ideally in sectors such as health tech, clean tech, AI safety, or automation.
 
 ## RELEVANT EXPERIENCE
+
+### ZT Systems | Georgetown, TX
+
+#### System Test Technician
+
+> August 2025 - Present
+
+- Conduct comprehensive hardware and system tests on enterprise-grade servers to ensure performance, stability, and compliance with quality standards.
+- Utilise terminal commands and diagnostic tools to monitor server health, identify faults, and verify operational status.
+- Replace defective components and re-run validation tests to confirm full functionality before release or deployment.
+- Accurately document test results, issues, troubleshooting steps, and resolutions in internal tracking systems.
 
 ### Randstad @ NXP | Austin, TX
 
 #### Machine Operator
 
-> February 2025 - Present
+> February 2025 - August 2025
 
 - Handle semiconductor wafers in a high-precision manufacturing environment, ensuring proper processing and transportation.
 - Monitor system performance in real-time, identifying and reporting tool malfunctions to engineers and maintenance teams to minimise downtime.
