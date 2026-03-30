@@ -21,10 +21,14 @@ My technical toolkit includes Python, SQL, TensorFlow, Pandas, Scikit-learn, Jup
 
 > August 2025 - Present
 
-- Conduct comprehensive hardware and system tests on enterprise-grade servers to ensure performance, stability, and compliance with quality standards.
-- Utilise terminal commands and diagnostic tools to monitor server health, identify faults, and verify operational status.
-- Replace defective components and re-run validation tests to confirm full functionality before release or deployment.
-- Accurately document test results, issues, troubleshooting steps, and resolutions in internal tracking systems.
+- Conduct server-level and rack-level testing, including hardware validation and BSL (Bootstrap Lite) verification
+- Perform functional, performance, and reliability testing on enterprise server hardware (CPU, memory, storage devices, NICs, motherboards)
+- Use Linux and Windows CLI tools to install OS, run diagnostics, and monitor system health and stability
+- Execute stress, load, and long-duration tests to identify hardware and system-level issues
+- Troubleshoot and isolate faulty components, replace hardware, and re-run tests to confirm full functionality
+- Collaborate with cross-functional teams to communicate findings and resolve issues efficiently
+- Maintain detailed documentation of test procedures, results, failures, and corrective actions in internal tracking systems
+
 
 ### Randstad @ NXP | Austin, TX
 
