@@ -27,7 +27,8 @@ My technical toolkit includes Python, SQL, TensorFlow, Pandas, Scikit-learn, Jup
 - Execute stress, load, and long-duration tests to identify hardware and system-level issues
 - Troubleshoot and isolate faulty components, replace hardware, and re-run tests to confirm full functionality
 - Collaborate with cross-functional teams to communicate findings and resolve issues efficiently
-- Maintain detailed documentation of test procedures, results, failures, and corrective actions in internal tracking systems
+- MIndependently designed and built an internal website (HTML, CSS, JavaScript) provided to 50+ people within the
+company to teach server troubleshooting fundamentals and testing environment operations with multiple SKUs
 
 
 ### Randstad @ NXP | Austin, TX
