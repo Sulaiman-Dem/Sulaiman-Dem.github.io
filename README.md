@@ -5,13 +5,9 @@
 
 ## About me
 
-I’m a Computer Science graduate with hands-on experience in both enterprise hardware testing and applied data science. Currently, I work as a System Test Technician at ZT Systems, where I perform comprehensive hardware and system tests on enterprise-grade servers, replace defective components, run terminal-based diagnostics, and verify quality standards before deployment. My role demands precision, problem-solving, and technical adaptability in a fast-paced environment.
+Computer Science graduate (B.S., CUNY) and Senior System Test Technician at ZT Systems, where I validate enterprise servers across 8+ SKUs, isolate and replace faulty hardware, and run Linux and Windows diagnostics before deployment. I train and monitor new technicians, act as the shift’s go-to specialist for issues, and built an internal training website (HTML, CSS, JavaScript) now used by 10+ colleagues.
 
-Previously, at NXP Semiconductors, I worked in a high-precision manufacturing environment, where I monitored live system performance, identified faults, and collaborated with engineering teams to ensure optimal output.
-
-In addition to my industry experience, I completed the CUNY Tech Prep Data Science Fellowship, which provided me with proficiency in Python, SQL, machine learning, and data visualisation. My capstone project, Deepfake Hunter, involved building a TensorFlow model to detect synthetic audio from over 200,000 samples, creating automated data pipelines, and deploying a user-friendly interface using Streamlit.
-
-My technical toolkit includes Python, SQL, TensorFlow, Pandas, Scikit-learn, Jupyter Notebooks, Streamlit, and Git/GitHub. I’m passionate about solving real-world problems where data and technology intersect and am seeking a full-time role in AI/ML, analytics, back-end development, or technical support—ideally in sectors such as health tech, clean tech, AI safety, or automation.
+My data science background comes from the CUNY Tech Prep Fellowship, where I co-built Deepfake Hunter: a TensorFlow model that detects synthetic audio across 200K+ files, with automated Python data pipelines and a Streamlit app for real-time use. Earlier, at NXP, I handled semiconductor wafers in a high-precision environment and performed tool quality checks.
 
 ## RELEVANT EXPERIENCE
 
